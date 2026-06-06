@@ -7,7 +7,7 @@ local playerGui = player:WaitForChild("PlayerGui")
 
 -- SETTINGS
 local aimAssistEnabled = true
-local aimAssistStrength = 0.08
+local aimAssistStrength = 0.10
 local maxDistance = 150
 local aimRadius = 180
 
